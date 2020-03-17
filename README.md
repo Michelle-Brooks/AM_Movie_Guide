@@ -58,9 +58,5 @@ LICENSE:
     folder.
 
 
-PLEASE HELP KEEP THIS SOFTWARE FREE! - All donations help.  Thank you!
-
-    https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9MDW3ZXCRKCVG
-
 
 
