@@ -7,7 +7,7 @@ PHP Based movie organizer.
 
 *******************************************************************************
 
-We at Applebite Media hope you find this program useful and easy to use. 
+We at Applebite Media hope you find this program useful and easy to use. Both sample image packages are needed to demo without getting a missing image box in the program.  They are not needed if you clean the database of sample data.
 
 INSTALLATION:
 
